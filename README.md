@@ -64,6 +64,13 @@ excel-cleaner/
 - 客户数据清洗
 - 调研数据分析
 
+## 💡 效果展示
+<img width="1396" height="1089" alt="ad9ad8d9cfceb903915e3347c580612d" src="https://github.com/user-attachments/assets/ee9ab073-e098-4703-8fe5-3a7580414851" />
+<img width="1395" height="1064" alt="1acfb8418a887d0a26e708198082d5ef" src="https://github.com/user-attachments/assets/1bc00ede-269a-44f0-8fe0-262145666302" />
+<img width="1436" height="885" alt="dc559b746644a505a368bd3573cd254d" src="https://github.com/user-attachments/assets/563b8560-68b1-40b7-a48e-19ae104f37a5" />
+
+
+
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request！
